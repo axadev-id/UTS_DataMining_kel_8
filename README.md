@@ -1,6 +1,19 @@
 # UTS Data Mining — Analisis Pembelian, Outlier, dan Klasifikasi Permintaan
 
-Dokumentasi resmi proyek analitik untuk mem-parsing data pembelian dari sumber teks/TSV, melakukan pembersihan dan agregasi, deteksi outlier berbasis Z-Score, visualisasi, serta membangun model klasifikasi sederhana (baseline) untuk kategorisasi permintaan produk.
+Ujian Tengah Semester (UTS)
+
+Mata Kuliah: IF25-32025 – Penambangan Data
+
+Semester: Ganjil 2025/2026
+
+Nama Anggota Kelompok:
+1. Mychael Daniel N_122140104
+2. Ichsan Kuntadi Baskara_122140117
+3. Fajrul Ramadhana Aqsa_122140118
+
+
+
+Dokumentasi proyek analitik untuk mem-parsing data pembelian dari sumber teks/TSV, melakukan pembersihan dan agregasi, deteksi outlier berbasis Z-Score, visualisasi, serta membangun model klasifikasi sederhana (baseline) untuk kategorisasi permintaan produk.
 
 ## Daftar Isi
 
